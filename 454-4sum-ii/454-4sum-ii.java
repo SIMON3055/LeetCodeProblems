@@ -15,10 +15,11 @@ class Solution {
         int result = 0;
          for(int i = 0 ; i < n ; i++) {
             for(int j = 0; j < n; j ++) {
-                //int sum = nums3[i] + nums4[j];
-               // if(map.containsKey(-1*sum)) result++;
+                int sum = nums3[i] + nums4[j];
+                if(map.containsKey(-1*sum)) 
+                    result = result + map.get(-1*sum);
                 
-                result += map.getOrDefault(-1 * (nums3[i]+nums4[j]), 0);
+               // result += map.getOrDefault(-1 * (nums3[i]+nums4[j]), 0);
             }
          }
         
