@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saidubabu Mallela
 - 👀 I’m interested in problem solving and developing high scale software applications.
-- 🌱 MS CS Graduate Student at Arizona State University having 5 years of experience in sooftware development looking for Summer 23 Internships in Datascience/Software Engineering.
+- 🌱 MS CS Graduate Student at Arizona State University having 5 years of experience in sooftware development looking for Spring 24 Senior Software Developer roles in Datascience/Software Engineering starting May 2024
 - 📫 How to reach me ... smallel2@asu.edu
 
 <!---
